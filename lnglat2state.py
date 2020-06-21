@@ -18,6 +18,10 @@ for i in data:
         else:
             statesCount[state[0]]=1
     except Exception as e:
-        print(str(e))
-
+        if "J&K" in statesCount:
+            statesCount["J&K"]+=1
+        else:
+            statesCount["J&K"]=1
+        print("Please reverify the state as assigning to j&k","\n","-"*100)
+            
 print(statesCount)
