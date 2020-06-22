@@ -1,39 +1,39 @@
 {
   "india": {
     "confirmed": [
-      410461,
-      15413
+      425282,
+      14821
     ],
     "quarantine": [
       1361690,
       0
     ],
     "cured": [
-      227756,
-      13925
+      237196,
+      9440
     ],
     "death": [
-      13254,
-      306
+      13699,
+      445
     ]
   },
   "states": {
     "Bihar": {
       "confirmed": [
-        7533,
-        352
+        7612,
+        79
       ],
       "quarantine": [
         44342,
         0
       ],
       "cured": [
-        5529,
-        431
+        5580,
+        51
       ],
       "death": [
-        52,
-        2
+        53,
+        1
       ]
     },
     "Daman and Diu": {
@@ -56,52 +56,52 @@
     },
     "Andhra Pradesh": {
       "confirmed": [
-        8452,
-        491
+        8999,
+        547
       ],
       "quarantine": [
         57349,
         0
       ],
       "cured": [
-        4111,
-        194
+        4331,
+        220
       ],
       "death": [
-        101,
+        106,
         5
       ]
     },
     "Gujarat": {
       "confirmed": [
-        26680,
-        539
+        27260,
+        580
       ],
       "quarantine": [
         20248,
         0
       ],
       "cured": [
-        18694,
-        535
+        19349,
+        655
       ],
       "death": [
-        1638,
-        20
+        1663,
+        25
       ]
     },
     "Himachal Pradesh": {
       "confirmed": [
-        656,
-        37
+        673,
+        17
       ],
       "quarantine": [
         38903,
         0
       ],
       "cured": [
-        413,
-        25
+        425,
+        12
       ],
       "death": [
         8,
@@ -110,34 +110,34 @@
     },
     "Uttar Pradesh": {
       "confirmed": [
-        16594,
-        809
+        17731,
+        1137
       ],
       "quarantine": [
         36376,
         0
       ],
       "cured": [
-        9995,
-        357
+        10995,
+        1000
       ],
       "death": [
-        507,
-        19
+        550,
+        43
       ]
     },
     "Arunachal Pradesh": {
       "confirmed": [
         135,
-        32
+        0
       ],
       "quarantine": [
         191,
         0
       ],
       "cured": [
-        14,
-        3
+        15,
+        1
       ],
       "death": [
         0,
@@ -146,177 +146,177 @@
     },
     "Madhya Pradesh": {
       "confirmed": [
-        11724,
-        142
+        11903,
+        179
       ],
       "quarantine": [
         29035,
         0
       ],
       "cured": [
-        8880,
-        132
+        9015,
+        135
       ],
       "death": [
-        501,
-        6
+        515,
+        14
       ]
     },
     "Maharashtra": {
       "confirmed": [
-        128205,
-        3874
+        132075,
+        3870
       ],
       "quarantine": [
         99028,
         0
       ],
       "cured": [
-        64153,
-        1380
+        65744,
+        1591
       ],
       "death": [
-        5984,
-        91
+        6170,
+        186
       ]
     },
     "Uttarakhand": {
       "confirmed": [
-        2301,
-        124
+        2344,
+        43
       ],
       "quarantine": [
         100735,
         0
       ],
       "cured": [
-        1450,
-        17
+        1500,
+        50
       ],
       "death": [
         27,
-        1
+        0
       ]
     },
     "Puducherry": {
       "confirmed": [
-        286,
-        0
+        366,
+        80
       ],
       "quarantine": [
         16606,
         0
       ],
       "cured": [
-        118,
-        0
+        140,
+        22
       ],
       "death": [
-        7,
-        0
+        8,
+        1
       ]
     },
     "Haryana": {
       "confirmed": [
-        10223,
-        480
+        10635,
+        412
       ],
       "quarantine": [
         58992,
         0
       ],
       "cured": [
-        5128,
-        239
+        5557,
+        429
       ],
       "death": [
-        149,
-        5
+        160,
+        11
       ]
     },
     "Chhattisgarh": {
       "confirmed": [
-        2041,
-        13
+        2275,
+        234
       ],
       "quarantine": [
         128090,
         0
       ],
       "cured": [
-        1394,
-        63
+        1447,
+        53
       ],
       "death": [
         11,
-        1
+        0
       ]
     },
     "Karnataka": {
       "confirmed": [
-        8697,
-        416
+        9150,
+        453
       ],
       "quarantine": [
         42789,
         0
       ],
       "cured": [
-        5391,
-        181
+        5618,
+        227
       ],
       "death": [
-        132,
-        8
+        137,
+        5
       ]
     },
     "Punjab": {
       "confirmed": [
-        3952,
-        120
+        4074,
+        122
       ],
       "quarantine": [
         16865,
         0
       ],
       "cured": [
-        2678,
-        42
+        2700,
+        22
       ],
       "death": [
-        98,
-        6
+        99,
+        1
       ]
     },
     "Rajasthan": {
       "confirmed": [
-        14536,
-        380
+        14930,
+        394
       ],
       "quarantine": [
         13859,
         0
       ],
       "cured": [
-        11274,
-        277
+        11597,
+        323
       ],
       "death": [
-        337,
-        4
+        349,
+        12
       ]
     },
     "Andaman and Nicobar": {
       "confirmed": [
-        47,
-        2
+        48,
+        1
       ],
       "quarantine": [
         2829,
         0
       ],
       "cured": [
-        36,
+        37,
         1
       ],
       "death": [
@@ -326,8 +326,8 @@
     },
     "Sikkim": {
       "confirmed": [
-        70,
-        0
+        78,
+        8
       ],
       "quarantine": [
         6405,
@@ -335,7 +335,7 @@
       ],
       "cured": [
         25,
-        20
+        0
       ],
       "death": [
         0,
@@ -344,16 +344,16 @@
     },
     "Jharkhand": {
       "confirmed": [
-        1965,
-        0
+        2073,
+        108
       ],
       "quarantine": [
         5341,
         0
       ],
       "cured": [
-        1335,
-        3
+        1406,
+        71
       ],
       "death": [
         11,
@@ -362,8 +362,8 @@
     },
     "Dadra and Nagar Haveli and Daman and Diu": {
       "confirmed": [
-        68,
-        6
+        88,
+        20
       ],
       "quarantine": [
         0,
@@ -371,7 +371,7 @@
       ],
       "cured": [
         26,
-        12
+        0
       ],
       "death": [
         0,
@@ -380,8 +380,8 @@
     },
     "Mizoram": {
       "confirmed": [
-        140,
-        10
+        141,
+        1
       ],
       "quarantine": [
         345,
@@ -389,7 +389,7 @@
       ],
       "cured": [
         9,
-        8
+        0
       ],
       "death": [
         0,
@@ -398,16 +398,16 @@
     },
     "Kerala": {
       "confirmed": [
-        3039,
-        127
+        3172,
+        133
       ],
       "quarantine": [
         203236,
         0
       ],
       "cured": [
-        1568,
-        57
+        1661,
+        93
       ],
       "death": [
         21,
@@ -416,16 +416,16 @@
     },
     "Nagaland": {
       "confirmed": [
-        201,
-        3
+        211,
+        10
       ],
       "quarantine": [
         905,
         0
       ],
       "cured": [
-        138,
-        13
+        141,
+        3
       ],
       "death": [
         0,
@@ -434,34 +434,34 @@
     },
     "Telangana": {
       "confirmed": [
-        7072,
-        546
+        7802,
+        730
       ],
       "quarantine": [
         2933,
         0
       ],
       "cured": [
-        3506,
-        153
+        3731,
+        225
       ],
       "death": [
-        203,
-        5
+        210,
+        7
       ]
     },
     "Assam": {
       "confirmed": [
-        4904,
-        0
+        5388,
+        484
       ],
       "quarantine": [
         153297,
         0
       ],
       "cured": [
-        3039,
-        0
+        3360,
+        321
       ],
       "death": [
         9,
@@ -488,16 +488,16 @@
     },
     "Manipur": {
       "confirmed": [
-        777,
-        96
+        841,
+        64
       ],
       "quarantine": [
         718,
         0
       ],
       "cured": [
-        232,
-        14
+        250,
+        18
       ],
       "death": [
         0,
@@ -506,8 +506,8 @@
     },
     "Chandigarh": {
       "confirmed": [
-        404,
-        23
+        406,
+        2
       ],
       "quarantine": [
         5418,
@@ -515,7 +515,7 @@
       ],
       "cured": [
         316,
-        1
+        0
       ],
       "death": [
         6,
@@ -524,20 +524,20 @@
     },
     "Jammu and Kashmir": {
       "confirmed": [
-        5834,
-        154
+        5956,
+        122
       ],
       "quarantine": [
         9101,
         0
       ],
       "cured": [
-        3336,
-        142
+        3382,
+        46
       ],
       "death": [
-        81,
-        6
+        82,
+        1
       ]
     },
     "Meghalaya": {
@@ -561,7 +561,7 @@
     "Goa": {
       "confirmed": [
         754,
-        29
+        0
       ],
       "quarantine": [
         1815,
@@ -569,7 +569,7 @@
       ],
       "cured": [
         129,
-        11
+        0
       ],
       "death": [
         0,
@@ -578,16 +578,16 @@
     },
     "Tripura": {
       "confirmed": [
-        1186,
-        8
+        1221,
+        35
       ],
       "quarantine": [
         15085,
         0
       ],
       "cured": [
-        680,
-        23
+        759,
+        79
       ],
       "death": [
         1,
@@ -614,34 +614,34 @@
     },
     "Odisha": {
       "confirmed": [
-        4856,
-        179
+        5160,
+        304
       ],
       "quarantine": [
         125477,
         0
       ],
       "cured": [
-        3534,
-        237
+        3720,
+        186
       ],
       "death": [
-        12,
-        1
+        14,
+        2
       ]
     },
     "Ladakh": {
       "confirmed": [
-        836,
-        92
+        837,
+        1
       ],
       "quarantine": [
         2062,
         0
       ],
       "cured": [
-        117,
-        22
+        134,
+        17
       ],
       "death": [
         1,
@@ -650,59 +650,59 @@
     },
     "Tamil Nadu": {
       "confirmed": [
-        56845,
-        2396
+        59377,
+        2532
       ],
       "quarantine": [
         67186,
         0
       ],
       "cured": [
-        31316,
-        1045
+        32754,
+        1438
       ],
       "death": [
-        704,
-        38
+        757,
+        53
       ]
     },
     "NCT of Delhi": {
       "confirmed": [
-        56746,
-        3630
+        59746,
+        3000
       ],
       "quarantine": [
         17725,
         0
       ],
       "cured": [
-        31294,
-        7725
+        33013,
+        1719
       ],
       "death": [
-        2112,
-        77
+        2175,
+        63
       ]
     },
     "West Bengal": {
       "confirmed": [
-        13531,
-        441
+        13945,
+        414
       ],
       "quarantine": [
         24115,
         0
       ],
       "cured": [
-        7865,
-        562
+        8297,
+        432
       ],
       "death": [
-        540,
-        11
+        555,
+        15
       ]
     }
   },
-  "updated_date": "Updated 10 hours, 11 minutes ago. 21 Jun '20",
-  "cachedAt": "Sun Jun 21 2020 19:42:43 GMT+0530 (India Standard Time)"
+  "updated_date": "Updated 7 hours, 39 minutes ago. 22 Jun '20",
+  "cachedAt": "Mon Jun 22 2020 18:03:30 GMT+0530 (India Standard Time)"
 }
